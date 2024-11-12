@@ -38,17 +38,14 @@ internal class Program
         {
             result = num1 + num2;
         }
-
         else if (answer == "s")
         {
             result = num1 - num2;
         }
-
         else if (answer == "m")
         {
             result = num1 * num2;
         }
-
         else
         {
             result = num1 / num2;
