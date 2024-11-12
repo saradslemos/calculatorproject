@@ -20,7 +20,7 @@ internal class Program
 
         string answer;
 
-        Console.WriteLine("Hello, welcome to the calculator program!");
+        Console.WriteLine("Hi, welcome to the calculator program!");
         Console.WriteLine("Please enter your first number.");
 
         num1 = Convert.ToInt32(Console.ReadLine());
